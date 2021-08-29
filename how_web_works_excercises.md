@@ -39,4 +39,6 @@ In your own terms, define the following terms:
 Your browser makes a request to that IP address, including headers (info about browser, any previous cookies, and other things)
 The server sends a response (typically, HTML, with a status code (200 if it was sucessful)
 The browser makes a DOM from that HTML, and finds any other resources needed (images, CSS, JavaScript, etc)
-The browser makes separate HTTP requests for those resources and receives response from the server for each
+The browser makes separate HTTP requests for those resources and receives response from the server for each.
+
+
